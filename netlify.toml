@@ -1,6 +1,6 @@
 [build]
-  command = "vitepress build docs"
-  publish = "dist"
+  command = "yarn start"
+  publish = "docs/.vitepress/dist"
 
 [[redirects]]
   from = "/*"
