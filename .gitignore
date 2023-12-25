@@ -6,3 +6,4 @@
 *.pem
 *.lock
 *-lock.*
+docs
